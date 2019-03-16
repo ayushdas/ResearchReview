@@ -1,0 +1,12 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Literature Review}{2}
+\contentsline {subsection}{\numberline {2.1}Task 1: Deciding the hardware to run the code - GPU or CPU}{2}
+\contentsline {subsubsection}{\numberline {2.1.1}Seminal work on converting openMP code to GPU code}{2}
+\contentsline {subsubsection}{\numberline {2.1.2}Machine Learning to predict code mapping to CPU/GPU}{3}
+\contentsline {subsubsection}{\numberline {2.1.3}Improving performance by synthesizing benchmarks}{4}
+\contentsline {subsubsection}{\numberline {2.1.4}Using Deep Learning to achieve complete automation}{5}
+\contentsline {subsection}{\numberline {2.2}Task 2: Thread Coarsening for Graphic Processors}{6}
+\contentsline {subsubsection}{\numberline {2.2.1}Understanding thread coercion and its effects}{6}
+\contentsline {subsubsection}{\numberline {2.2.2}Automatic thread coercion}{7}
+\contentsline {subsubsection}{\numberline {2.2.3}Using Deep Learning and Transfer Learning to achieve complete automation}{8}
+\contentsline {section}{\numberline {3}Summary and Conclusion}{9}

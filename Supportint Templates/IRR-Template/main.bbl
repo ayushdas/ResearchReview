@@ -1,0 +1,130 @@
+\begin{thebibliography}{10}
+
+\bibitem{zero1}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em The IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, IEEE, 2018.
+
+\bibitem{zero2}
+A.W. Senior and A.J. Robinson.
+\newblock An off-line cursive handwriting recognition system.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  IEEE, 1998.
+
+\bibitem{zero3}
+V.~Dalibard, M.~Schaarschmidts, and E.~Yoneki.
+\newblock Boat: Building auto-tuners with structured bayesian optimization.
+\newblock {\em Proceedings of the 26th International Conference on World Wide
+  Web}, ACM, 2017.
+
+\bibitem{zero4}
+A.H. Ashouri, W.~Killian, G.~Palmero, and C.~Silvano.
+\newblock A survey on compiler autotuning using machine learning.
+\newblock {\em ACM Computing Surveys}, ACM, 2018.
+
+\bibitem{first}
+C.~Cummins, P.~Petoumenos, Z.~Wang, and H.~Leather.
+\newblock End-to-end deep learning of optimization heuristics.
+\newblock {\em 26th International Conference on Parallel Architectures and
+  Compilation Techniques (PACT)}, IEEE, 2017.
+
+\bibitem{firstwork}
+S.~Lee, S.~Min, and R.~Eigenmann.
+\newblock Openmp to gpugpu: A compiler framework for automatic translation and
+  optimizarion.
+\newblock {\em PPoPP '09 Proceedings of the 14th ACM SIGPLAN symposium on
+  Principles and practice of parallel programming}, 2009.
+
+\bibitem{second}
+D.~Grewe, Z.~Wang, and M.F.P.~O' Boyle.
+\newblock Portable mapping of data parallel programs to opencl for heterogenous
+  systems.
+\newblock {\em Proceedings of the 2013 IEEE/ACM International Symposium on Code
+  Generation and Optimization (CGO)}, 2013.
+
+\bibitem{fourth}
+R.~Bordawekar, U.~Bondhugula, and R.~Rao.
+\newblock Believe it or not! multi-core cpus can match gpu performance for a
+  flop-intensive application!
+\newblock {\em Published in: 2010 19th International Conference on Parallel
+  Architectures and Compilation Techniques (PACT)}, 2010.
+
+\bibitem{fifth}
+V.W. Lee, C.Kim, J.Chhugani, M.Deisher, D.Kim, A.D. Nguyen, N.Satish,
+  M.Smelyanskiy, S.Chennupaty, P.Hammarlund, R.Singhal, and P.Dubey.
+\newblock Debunking the 100x gpu vs. cpu myth: an evaluation of throughput
+  computing on cpu and gpu.
+\newblock {\em ISCA '10 Proceedings of the 37th annual international symposium
+  on Computer architecture}, 2010.
+
+\bibitem{c4}
+J.~R. Quinlan.
+\newblock C4.5: programs for machine learning.
+\newblock {\em Morgan Kaufmann Publishers}, 1993.
+
+\bibitem{nasbenchmark}
+NAS parallel~benchmarks 2.3 OpenMPC~version.
+\newblock \url{ http: //phase.hpcc.jp/Omni/benchmarks/NPB/index.html}.
+
+\bibitem{amdbenchmark}
+AMD. AMD/ATI~Stream SDK.
+\newblock \url{http://www.amd.com/ stream/}.
+
+\bibitem{nvdiabenchmark}
+NVIDIA Corp~NVIDIA CUDAK.
+\newblock \url{http://developer. nvidia.com/object/cuda.html}.
+
+\bibitem{sixth}
+C.~Cummins, P.~Petoumenos, Z.~Wang, and H.~Leather.
+\newblock Synthesizing benchmarks for predictive modeling.
+\newblock {\em CGO '17 Proceedings of the 2017 International Symposium on Code
+  Generation and Optimization}, 2017.
+
+\bibitem{qa}
+H.~Gao, J.~Mao, J.~Zhou, Z.~Huang, L.~Wang, and W.~Xu.
+\newblock Are you talking to a machine? dataset and methods for multilingual
+  image question answering.
+\newblock {\em In: arXiv:1505.05612}, 2015.
+
+\bibitem{colorization}
+R.~Zhang, P.~Isola, and A.A. Efros.
+\newblock Colorful image colorization.
+\newblock {\em In: arXiv:1603.08511}, 2016.
+
+\bibitem{turing}
+A.~M. Turing.
+\newblock Computing machinery and intelligence.
+\newblock 1950.
+
+\bibitem{token}
+M.~Allamanis and C.~Sutton.
+\newblock Mining source code repositories at massive scale using language
+  modeling.
+\newblock {\em 10th Working Conference on Mining Software Repositories (MSR)},
+  2013.
+
+\bibitem{tenfold}
+M.~Kamber, J.~Pei, and J.~Han.
+\newblock Data mining: concepts and techniques.
+\newblock {\em Elsevier}, 2011.
+
+\bibitem{threadseminal}
+A.~Magni, C.~Dubach, and M.F.P.~O' Boyle.
+\newblock A large-scale cross architecture evaluation of thread coarsening.
+\newblock {\em SC '13: Proceedings of the International Conference on High
+  Performance Computing, Networking, Storage and Analysis}, 2013.
+
+\bibitem{divergence}
+B.~Coutinho, D.~Sampaio, F.~M.~Q. Pereira, and W.~Meira Jr.
+\newblock Divergence analysis and optimizations.
+\newblock {\em Parallel Architectures and Compilation Techniques (PACT), 2011
+  International Conference on}, IEEE, 2011.
+
+\bibitem{threadautomatic}
+A.~Magni, C.~Dubach, and M.F.P.~O' Boyle.
+\newblock Automatic optimization of thread-coarsening for graphic processors.
+\newblock {\em 2014 23rd International Conference on Parallel Architecture and
+  Compilation Techniques (PACT))}, 2014.
+
+\end{thebibliography}
